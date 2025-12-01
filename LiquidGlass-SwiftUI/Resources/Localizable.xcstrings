@@ -3,7 +3,6 @@
   "strings" : {
     "%@\n%@" : {
       "comment" : "The coordinates of a landmark, consisting of the latitude and longitude",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -39,7 +38,6 @@
     },
     "%@–%@" : {
       "comment" : "The elevation range of a landmark, where both bounds are specified (such as '100–300 m')",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -596,7 +594,6 @@
     },
     "Draw a sketch of this landmark" : {
       "comment" : "Description of an activity that people can select in Activities tab.",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -807,7 +804,6 @@
     },
     "Find a cool piece of nature" : {
       "comment" : "Description of an activity that people can select in Activities tab.",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1243,7 +1239,6 @@
     },
     "Read the landmark description" : {
       "comment" : "Description of an activity that people can select in Activities tab.",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1456,7 +1451,6 @@
     },
     "Take a photo" : {
       "comment" : "Description of an activity that people can select in Activities tab.",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1607,7 +1601,6 @@
     },
     "up to %@" : {
       "comment" : "The elevation range of a landmark, where only the upper bound is specified (such as '300 m')",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {

@@ -29,9 +29,30 @@
 		9EBCEB9C2EDD13030050C9E6 /* LiquidGlass-SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LiquidGlass-SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		9EBCEBEF2EDD18BD0050C9E6 /* Exceptions for "LiquidGlass-SwiftUI" folder in "LiquidGlass-SwiftUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Model/Landmark.swift,
+			);
+			target = 9EBCEB912EDD13030050C9E6 /* LiquidGlass-SwiftUITests */;
+		};
+		9EBCEBF02EDD18BD0050C9E6 /* Exceptions for "LiquidGlass-SwiftUI" folder in "LiquidGlass-SwiftUIUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Model/Landmark.swift,
+			);
+			target = 9EBCEB9B2EDD13030050C9E6 /* LiquidGlass-SwiftUIUITests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		9EBCEB872EDD13020050C9E6 /* LiquidGlass-SwiftUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9EBCEBEF2EDD18BD0050C9E6 /* Exceptions for "LiquidGlass-SwiftUI" folder in "LiquidGlass-SwiftUITests" target */,
+				9EBCEBF02EDD18BD0050C9E6 /* Exceptions for "LiquidGlass-SwiftUI" folder in "LiquidGlass-SwiftUIUITests" target */,
+			);
 			path = "LiquidGlass-SwiftUI";
 			sourceTree = "<group>";
 		};
